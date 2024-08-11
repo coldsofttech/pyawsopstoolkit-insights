@@ -13,7 +13,7 @@ setup(
     requires_python=">=3.10",
     install_requires=[
         "pyawsopstoolkit==0.1.19",
-        "pyawsopstoolkit_advsearch==0.1.0"
+        "pyawsopstoolkit_advsearch==0.1.1"
     ],
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
