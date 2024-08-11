@@ -1,7 +1,9 @@
 __all__ = [
+    "ec2",
+    "iam"
 ]
 __name__ = "pyawsopstoolkit_insights"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __description__ = """
 This package offers a comprehensive array of features designed to clean up and maintain hygiene within AWS (Amazon Web
 Services). It includes tools for identifying unused IAM roles, EC2 Security Groups, and more. Meticulously engineered,
