@@ -1,0 +1,2 @@
+pyawsopstoolkit==0.1.19
+pyawsopstoolkit_advsearch==0.1.0
